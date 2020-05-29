@@ -1,0 +1,7 @@
+.address > span {
+    display: block;
+}
+
+.employment > li > span {
+    display: block;
+}
